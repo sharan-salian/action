@@ -1,7 +1,7 @@
 <p align="center">
   <img src="images/action.png" height="200px">
   <br><br>
-  <b>We love you! ❤️</b>
+  <b>Make development faster!</b>
   <br>
 </p>
 
