@@ -15,3 +15,9 @@ If any of the steps fail, the whole workflow fails and reports back to the pull 
 
 ![Continuous Integration](images/continuous-integration.png)
 
+### DevOps
+
+- [x] React & AWS S3
+- [ ] NPM Release
+- [ ] Tags & Release notes
+- [ ] React Native builds
